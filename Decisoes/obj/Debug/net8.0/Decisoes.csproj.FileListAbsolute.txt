@@ -1,0 +1,14 @@
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\bin\Debug\net8.0\Decisoes.exe
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\bin\Debug\net8.0\Decisoes.deps.json
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\bin\Debug\net8.0\Decisoes.runtimeconfig.json
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\bin\Debug\net8.0\Decisoes.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\bin\Debug\net8.0\Decisoes.pdb
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\Decisoes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\Decisoes.AssemblyInfoInputs.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\Decisoes.AssemblyInfo.cs
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\Decisoes.csproj.CoreCompileInputs.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\Decisoes.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\refint\Decisoes.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\Decisoes.pdb
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\Decisoes.genruntimeconfig.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSDecisoes\Decisoes\obj\Debug\net8.0\ref\Decisoes.dll
